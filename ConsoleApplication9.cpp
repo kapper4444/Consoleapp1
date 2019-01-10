@@ -9,5 +9,7 @@ int main()
     std::cout << "Hello World!\n"; 
 
 	std::cout << "hello to you too";
+
+	std::cout << "no cin here";
 }
 
