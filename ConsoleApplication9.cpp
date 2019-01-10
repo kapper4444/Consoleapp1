@@ -6,10 +6,11 @@
 
 int main()
 {
-    std::cout << "Hello World!\n"; 
+	int i;
+
+    std::cout << "Hello World!\n";
 
 	std::cout << "hello to you too";
 
-	std::cout << "no cin here";
+	std::cin << i;
 }
-
