@@ -6,8 +6,12 @@
 
 int main()
 {
+	int i;
+
     std::cout << "Hello World!\n"; 
 
 	std::cout << "hello to you too";
+
+	std::cin << i;
 }
 
